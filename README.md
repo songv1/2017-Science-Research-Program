@@ -1,6 +1,6 @@
 # Science Research Program: Capstone Project
 
-![Seyfert Galaxy](https://upload.wikimedia.org/wikipedia/commons/d/d2/ESO_Centaurus_A_LABOCA.jpg)
+![Seyfert Galaxy](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/ESO_Centaurus_A_LABOCA.jpg/800px-ESO_Centaurus_A_LABOCA.jpg)
 
 ## Program Description
 The Science Research Program (SRP) offers motivated and independent science students the opportunity to practice true laboratory science by providing training in scientific methods and by linking each student with a professional scientist in whose lab the student will participate in ongoing research and experimentation.

@@ -23,6 +23,7 @@ A scientific poster containing information found in the research article. Made f
 Research papers that provided background information and formulas for this project.
 
 ## Raw Data
+NOTE: File size exceeds upload maximum. Files not included in this repository.
 Raw data of galaxies from telescopes in .fits or .dat format. 
 
 ## Completed Graphs
